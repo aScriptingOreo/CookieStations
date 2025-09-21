@@ -1,0 +1,9 @@
+# Git LFS tracking
+*.zip filter=lfs diff=lfs merge=lfs -text
+
+# Standard gitattributes
+*.md text
+*.txt text
+*.yml text
+*.yaml text
+*.json text
