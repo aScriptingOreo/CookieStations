@@ -4,7 +4,7 @@ Custom radio stations for **The Crew** game. Each station features carefully cur
 
 ## 📻 Collection Overview
 
-- **3 Radio Stations** with **120 Total Tracks**
+- **3 Radio Stations** with **144 Total Tracks**
 - Easy installation via [PitCrew](https://github.com/Telonof/PitCrew) mod manager
 - High-quality audio optimized for in-game use
 
@@ -86,32 +86,56 @@ Custom radio stations for **The Crew** game. Each station features carefully cur
 </details>
 
 <details>
-<summary><strong>Hypin Up</strong> (21 tracks, 107.3 MB)</summary>
+<summary><strong>Hypin Up</strong> (45 tracks, 209.2 MB)</summary>
 
 **Description:** HYPE radio station
 
 **Track List:**
-- [1991 - Full Send](https://music.youtube.com/watch?v=Mthn83f13YM)
-- [BLVCK CROWZ - LIFT YOU UP](https://music.youtube.com/watch?v=7wMu1JAOiZQ)
-- [Camo & Krooked - Kallisto](https://music.youtube.com/watch?v=LQFxuadKFxg)
-- [Dimension - Devotion feat. Cameron Hayes](https://music.youtube.com/watch?v=wRHI_QHZqrI)
-- [Dimension - Hydraulic](https://music.youtube.com/watch?v=WJa_U1-xtzI)
-- [Dimension - Sensory Division](https://music.youtube.com/watch?v=AKboUy_x2v8)
-- [DJ Fresh - Gold Dust Fox Stevenson Remix](https://music.youtube.com/watch?v=V2RAdlc20GA)
-- [Feint - Vagrant](https://music.youtube.com/watch?v=dhhwuYkPg8c)
-- [Feint - We Won't Be Alone feat. Laura Brehm](https://music.youtube.com/watch?v=L2E4bCiIpKU)
-- [Freaks & Geeks - Elemental](https://music.youtube.com/watch?v=Jl6pq6VUtnE)
-- [Grafix - Refuge feat. Ruth Royall](https://music.youtube.com/watch?v=bfHZbr4d2ZE)
-- [KovenUKMusic - Good Enough](https://music.youtube.com/watch?v=v-VOOwWcsN0)
-- [Metrik - Ex Machina](https://music.youtube.com/watch?v=kjFefj3UHw0)
-- [Metrik - Gravity](https://music.youtube.com/watch?v=gSey2Nvy8qU)
-- [Metrik - Time To Let Go](https://music.youtube.com/watch?v=x4-tkjCdgYM)
-- [Metrik - We Are The Energy](https://music.youtube.com/watch?v=mGvx-tpbv8c)
-- [Rusko - Somebody To Love Sigma Remix](https://music.youtube.com/watch?v=qSTZlogpIqM)
-- [Sub Focus - Out The Blue](https://music.youtube.com/watch?v=HL1O9ktG0Hg)
-- [Sub Focus - Tidal Wave](https://music.youtube.com/watch?v=4VywybNzXkE)
-- [Supermode - Tell Me Why 1991 Remix](https://music.youtube.com/watch?v=z78bBheXZks)
-- [UKF Drum & Bass - 1991 - Illusions](https://music.youtube.com/watch?v=vKXbYtxN8N4)
+- [Armin van Buuren - Pendulum & Armin van Buuren & Rob Swire - Sound of You Official Lyric Video](https://music.youtube.com/watch?v=UkALtin4Lf4)
+- [Axtone - Axwell - Nobody Else 1991 Remix](https://music.youtube.com/watch?v=16d0vhUzEG4)
+- [UKF Drum & Bass - Pendulum & Armin van Buuren & Rob Swire - Sound Of You](https://music.youtube.com/watch?v=T82yshVNL9w)
+- [UKF Drum & Bass - Sub Focus - Rock It Wilkinson Remix](https://music.youtube.com/watch?v=2p2BWpv0raI)
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
+- [Unknown Artist - Unknown Title]()
 
 </details>
 
@@ -182,4 +206,4 @@ Custom radio stations for **The Crew** game. Each station features carefully cur
 Created by **aScriptingOreo** using [TuneinCrew](https://github.com/Telonof/TuneinCrew) and [PitCrew](https://github.com/Telonof/PitCrew).
 
 ---
-*Last updated: 2025-09-21 06:17:05*
+*Last updated: 2025-09-21 08:32:25*
