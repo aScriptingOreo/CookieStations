@@ -86,7 +86,7 @@ Custom radio stations for **The Crew** game. Each station features carefully cur
 </details>
 
 <details>
-<summary><strong>Hypin Up</strong> (45 tracks, 209.2 MB)</summary>
+<summary><strong>Hypin Up</strong> (44 tracks, 209.2 MB)</summary>
 
 **Description:** HYPE radio station
 
@@ -118,7 +118,6 @@ Custom radio stations for **The Crew** game. Each station features carefully cur
 - [Metrik - Time To Let Go](https://music.youtube.com/watch?v=x4-tkjCdgYM)
 - [Metrik - We Are The Energy](https://music.youtube.com/watch?v=mGvx-tpbv8c)
 - [Pendulum & Armin van Buuren & Rob Swire - Sound of You](https://music.youtube.com/watch?v=UkALtin4Lf4)
-- [Pendulum & Armin van Buuren & Rob Swire - Sound Of You](https://music.youtube.com/watch?v=T82yshVNL9w)
 - [pendulumlive - Crush](https://music.youtube.com/watch?v=lC-0j-5GdjU)
 - [pendulumlive - Hold Your Colour](https://music.youtube.com/watch?v=k-Xv0sKBMA8)
 - [pendulumlive - Tarantula](https://music.youtube.com/watch?v=oCxcIROTabw)
@@ -206,4 +205,4 @@ Custom radio stations for **The Crew** game. Each station features carefully cur
 Created by **aScriptingOreo** using [TuneinCrew](https://github.com/Telonof/TuneinCrew) and [PitCrew](https://github.com/Telonof/PitCrew).
 
 ---
-*Last updated: 2025-09-21 08:37:34*
+*Last updated: 2025-09-21 08:40:28*
