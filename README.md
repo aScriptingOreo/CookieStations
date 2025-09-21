@@ -86,7 +86,7 @@ Custom radio stations for **The Crew** game. Each station features carefully cur
 </details>
 
 <details>
-<summary><strong>Hypin Up</strong> (21 tracks, 285.9 MB)</summary>
+<summary><strong>Hypin Up</strong> (21 tracks, 107.3 MB)</summary>
 
 **Description:** HYPE radio station
 
@@ -116,7 +116,7 @@ Custom radio stations for **The Crew** game. Each station features carefully cur
 </details>
 
 <details>
-<summary><strong>What Even is Indie?</strong> (46 tracks, 178.4 MB)</summary>
+<summary><strong>What Even is Indie?</strong> (46 tracks, 178.5 MB)</summary>
 
 **Description:** INDI radio station
 
@@ -182,4 +182,4 @@ Custom radio stations for **The Crew** game. Each station features carefully cur
 Created by **aScriptingOreo** using [TuneinCrew](https://github.com/Telonof/TuneinCrew) and [PitCrew](https://github.com/Telonof/PitCrew).
 
 ---
-*Last updated: 2025-09-21 05:57:58*
+*Last updated: 2025-09-21 06:04:08*
